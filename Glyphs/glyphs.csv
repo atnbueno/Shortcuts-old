@@ -1,0 +1,324 @@
+Name,ID,Row,Column,Slider
+Car,59452,1,1,1
+Car Multiple,61446,2,1,1
+Bolt Car,61447,3,1,1
+Bus,59678,1,2,1
+Bus Double Decker,61448,2,2,1
+Tram,61449,3,2,1
+Tram Tunnel,61450,1,3,1
+Bicycle,59668,2,3,1
+Motorcycle,59783,3,3,1
+Ambulance,59652,1,4,1
+Airplane,59648,2,4,1
+Sailboat,59823,3,4,1
+Home,59755,1,5,1
+Church,59688,2,5,1
+Buildings,59677,3,5,1
+Shopping Cart,59828,1,6,1
+Handbag,59750,2,6,1
+Grocery Store,59747,3,6,1
+Utensils,59863,1,7,1
+Fuel Station,59741,2,7,1
+Thermometer,59854,3,7,1
+Sun,59845,1,8,1
+Moon,59782,2,8,1
+Moon Circle,61517,3,8,1
+Snowflake,59835,1,9,1
+Cloud,59714,2,9,1
+Cloud Raining,59715,3,9,1
+Umbrella,59861,1,10,1
+Evergreen Tree,59731,2,10,1
+Flower,59468,3,10,1
+Fire,59734,1,11,1
+Footprints,59738,2,11,1
+Directions Signs,59724,3,11,1
+Binoculars,59669,1,12,1
+Compass,59717,2,12,1
+Globe,59412,3,12,1
+Mountains,59785,1,13,1
+Mountain Picture,59784,2,13,1
+Filmstrip,59733,3,13,1
+Camera,59682,1,14,2
+Movie Camera Filled,59402,2,14,2
+Microphone,59780,3,14,2
+Video Symbol,59864,1,15,2
+Clipboard glyph,59711,2,15,2
+Calendar,59681,3,15,2
+Chat Bubble,59414,1,16,2
+Message Bubbles,59403,2,16,2
+Message Bubble,59779,3,16,2
+Mail Envelope,59773,1,17,2
+Mail Envelope Open,59774,2,17,2
+Soaring Paper Airplane,59836,3,17,2
+Paper Plane Circle,61462,1,18,2
+Briefcase,59676,2,18,2
+Folder,59737,3,18,2
+Credit Card,59719,1,19,2
+Watch,59865,2,19,2
+Phone,59814,3,19,2
+Laptop,59436,1,20,2
+Keyboard,59446,2,20,2
+Boxed Keyboard,59494,3,20,2
+Calculator,59680,1,21,2
+Bar Graph,59662,2,21,2
+Printer,59817,3,21,2
+Hard Drive,59752,1,22,2
+Server,59722,2,22,2
+Database,59519,3,22,2
+Network Storage,59826,1,23,2
+Archive,59653,2,23,2
+Cube,59721,3,23,2
+Television,59851,1,24,2
+Game Controller,59742,2,24,2
+Puzzle Piece,59818,3,24,2
+Headphones,59753,1,25,2
+Headphones Circle,61479,2,25,2
+Hearing Aid,61481,3,25,2
+Music Beamed Eighth Notes,59790,1,26,2
+Speaker Wave1,59839,2,26,2
+Speaker Wave2,61470,3,26,2
+Speaker Wave3,61471,1,27,2
+Speaker Slash,61472,2,27,2
+Speaker,61473,3,27,2
+Hi-Fi Speaker,61478,1,28,3
+TV And Hi-Fi Speaker,61474,2,28,3
+Bookshelf,59671,3,28,3
+Open Book,59465,1,29,3
+Book With Sash,59672,2,29,3
+Book Closed,61442,3,29,3
+Glasses,59745,1,30,3
+Masquerade Mask,59777,2,30,3
+Movie Ticket,59788,3,30,3
+Drama Masks,59730,1,31,3
+Dice,59723,2,31,3
+Baseball,59663,3,31,3
+Basketball,59664,1,32,3
+Soccer Ball,59837,2,32,3
+Tennis Ball,59852,3,32,3
+Football,59456,1,33,3
+Life Preserver,59762,2,33,3
+Telescope,59850,3,33,3
+Microscope,59781,1,34,3
+Horse,59756,2,34,3
+Clock,59712,3,34,3
+Alarm Clock,59649,1,35,3
+Stopwatch,59844,2,35,3
+Bell,59667,3,35,3
+Sparkling Bell,59838,1,36,3
+Heart,59754,2,36,3
+Star,59841,3,36,3
+Trophy,59860,1,37,3
+Light Bulb,59763,2,37,3
+Lightning Bolt,59764,3,37,3
+Flag,59736,1,38,3
+Tag,59848,2,38,3
+Key,59760,3,38,3
+Hourglass,59757,1,39,3
+Lock,59770,2,39,3
+Unlock,59862,3,39,3
+Battery,59489,1,40,3
+Magic Wand (1),59511,2,40,3
+Magic Wand (2),59771,3,40,3
+Paintbrush,59793,1,41,3
+Pencil,59798,2,41,3
+Paper Clip,59794,3,41,3
+Scissors,59824,1,42,4
+Magnifying Glass,59772,2,42,4
+Chain Link,59685,3,42,4
+Color Dropper,59716,1,43,4
+Hammer (1),59748,2,43,4
+Wrench,59870,3,43,4
+Hammer And Wrench,59749,1,44,4
+Gears,59743,2,44,4
+Hammer (2),59473,3,44,4
+Screwdriver,59825,1,45,4
+Hand With Spread Fingers,59751,2,45,4
+Trash,59859,3,45,4
+Water Drop,59866,1,46,4
+Mug,59789,2,46,4
+Steaming Bowl,59842,3,46,4
+Fruit,59740,1,47,4
+Carrot,59683,2,47,4
+Fish,59735,3,47,4
+Cake,59679,1,48,4
+Wine Bottle,59868,2,48,4
+Martini Glass,59776,3,48,4
+Clothes Hanger,59713,1,49,4
+Laundry Machine,59761,2,49,4
+Oven,59792,3,49,4
+Shirt,59827,1,50,4
+Bathtub,59665,2,50,4
+Shower,59829,3,50,4
+Pill,59461,1,51,4
+Pills,59815,2,51,4
+Medicine Bottle,59778,3,51,4
+Bandage,59660,1,52,4
+Inhaler,59759,2,52,4
+Stethoscope,59843,3,52,4
+Syringe,59847,1,53,4
+Atom,59657,2,53,4
+Chemical,59686,3,53,4
+Cat,59684,1,54,4
+Dog,59728,2,54,4
+Pawprint,59796,3,54,4
+Thumbs Up,59857,1,55,4
+Graduate Cap,59746,2,55,4
+Gift,59744,3,55,4
+Alien,59651,1,56,5
+Bed,59666,2,56,5
+Staircase,59840,3,56,5
+Rocket,59822,1,57,5
+Map,61444,2,57,5
+Gauge,61452,3,57,5
+Speedometer,61453,1,58,5
+Barometer,61454,2,58,5
+Network,61455,3,58,5
+Rectangle Stack,61456,1,59,5
+Square Stack,61457,2,59,5
+3D Square Stack,61458,3,59,5
+Photo Stack,61459,1,60,5
+Photo Stack Angled,61460,2,60,5
+Camera Aperture,61461,3,60,5
+Note icon,61464,1,61,5
+Note Text,61465,2,61,5
+Note Text Badge Plus,61466,3,61,5
+Send Message,61467,1,62,5
+Add Message,61468,2,62,5
+EarPods,61475,3,62,5
+AirPods,61476,1,63,5
+AirPods Pro,61477,2,63,5
+Radio,61480,3,63,5
+Apple TV,61482,1,64,5
+HomePod,61483,2,64,5
+Apple Watch Waves,61484,3,64,5
+IPhone icon,61486,1,65,5
+IPhone Radio Waves,61487,2,65,5
+IPhone Apps,61488,3,65,5
+IPad icon,61489,1,66,5
+IPad Landscape,61490,2,66,5
+IPod,61491,3,66,5
+Baby,59658,1,67,5
+Baby Boy,59659,2,67,5
+Child,59687,3,67,5
+Man,59775,1,68,5
+Woman,59869,2,68,5
+Person In Wheelchair,59806,3,68,5
+Person (1),59801,1,69,6
+People Two Overlapping,59800,2,69,6
+People Three Overlapping,59799,3,69,6
+Person (2),59437,1,70,6
+Person At Podium,59802,2,70,6
+Person Giving Speech,59804,3,70,6
+Person Dancing,59803,1,71,6
+Person Lifting Weight,59807,2,71,6
+Person Skiing,59809,3,71,6
+Person Snowboarding ,59810,1,72,6
+Person Swimming,59811,2,72,6
+Person Hiking,59805,3,72,6
+Person Walking,59812,1,73,6
+Person Walking With Cane,59813,2,73,6
+Person Running,59808,3,73,6
+Person Run Circle,61493,1,74,6
+Person Run Motion,61494,2,74,6
+Person Closed,61495,3,74,6
+Person Open,61496,1,75,6
+Shortcuts icon,61440,1,76,6
+Alert Triangle,59650,2,76,6
+Arrow Curved Left,59654,3,76,6
+Arrow Curved Right,59655,1,77,6
+Bookmark,59670,2,77,6
+Barcode,59661,3,77,6
+QR Code,59819,1,78,6
+Play,59508,2,78,6
+Box Filled,59673,3,78,6
+Box Outline,59674,1,79,6
+Braille,59675,2,79,6
+Circled Left Arrow,59696,3,79,6
+Circled Right Arrow,59705,1,80,6
+Circled Download Arrow,59693,2,80,6
+Circled Up Arrow,59707,3,80,6
+Circled Down Arrow,59692,1,81,6
+Circled Upload Arrow,59708,2,81,6
+Circled Play,59699,3,81,6
+Circled Rewind,59704,1,82,7
+Circled Power,59702,2,82,7
+Circled Stop,59706,3,82,7
+Circled Fast-Forward ,59695,1,83,7
+Circled Question Mark,59703,2,83,7
+Circled Checkmark,59690,3,83,7
+Circled Plus,59700,1,84,7
+Circled X,59709,2,84,7
+Circled Pi Symbol,59698,3,84,7
+Circled Lowercase I,59697,1,85,7
+Smiley Face,59834,2,85,7
+Document CSS,59725,3,85,7
+Dollar Sign With Line,59395,1,86,7
+Euro Sign,59512,2,86,7
+Pound Sign,59448,3,86,7
+Yen Sign,59514,1,87,7
+Bitcoin Symbol,59515,2,87,7
+Asterisk,59656,3,87,7
+Document Filled,59726,1,88,7
+Document Outline,59727,2,88,7
+News Article,59791,3,88,7
+Four Squares,59739,1,89,7
+Ellipsis,59392,2,89,7
+List,59445,3,89,7
+Twelve Squares,59405,1,90,7
+Connected Share Dots,59718,2,90,7
+Infinity,59758,3,90,7
+Recycle,59820,1,91,7
+Loading Indicator (1),59767,2,91,7
+Loading Indicator (2),59516,3,91,7
+Target (1),59849,1,92,7
+Podcasts,59816,2,92,7
+Target (2),59454,3,92,7
+Location Arrow,59768,1,93,7
+Location Pin,59769,2,93,7
+Parking Symbol,59795,3,93,7
+Crop,59720,1,94,7
+Shrink Arrows,59830,2,94,7
+Move Arrows,59786,3,94,7
+Repost Arrows,59821,1,95,7
+Sync Arrows,59846,2,95,7
+Shuffle Arrows,59832,3,95,7
+Sliders,59833,1,96,8
+Double Quote,59729,2,96,8
+Peace Sign,59797,3,96,8
+Three Overlapping Circles,59856,1,97,8
+Text Symbol,59853,2,97,8
+Cloud Service,59459,3,97,8
+Feed (1),59732,1,98,8
+Feed (2),59497,2,98,8
+Wi-Fi,59867,3,98,8
+AirDrop,61501,1,99,8
+Directions Arrow Diamond,61497,2,99,8
+Directions Arrow Circle,61498,3,99,8
+AirPlay Audio,61499,1,100,8
+AirPlay Video,61500,2,100,8
+Music Note List,61502,3,100,8
+Music Note,61503,1,101,8
+Music Square Stack,61504,2,101,8
+Music Waveform Path,61505,3,101,8
+Music Live Photo Play,61506,1,102,8
+Music Live Photo,61507,2,102,8
+Slowmo,61508,3,102,8
+Timelapse,61509,1,103,8
+Calendar Badge Plus,61510,2,103,8
+Calendar Badge Exclamation,61511,3,103,8
+Timer,61512,1,104,8
+Timer Square,61513,2,104,8
+Compose,61514,3,104,8
+Duplicate,61515,1,105,8
+Night Shift,61518,2,105,8
+True Tone,61519,3,105,8
+Dial Min,61520,1,106,8
+Dial Max,61521,2,106,8
+QR Code Viewfinder,61522,3,106,8
+Camera Viewfinder,61523,1,107,8
+Wallet Pass,61524,2,107,8
+Appearance,61525,3,107,8
+No Sign,61528,1,108,8
+Command,61529,2,108,8
+Command Circle,61530,3,108,8
+Command Square,61531,1,109,8
