@@ -1,6 +1,3 @@
-# Shortcuts Repository
-This is a repository that includes a lot of my public work for working with the shortcuts app.
+# iOS Shortcuts
 
-This work was all done for the Jellycuts app.
-
-Check it out on [twitter](https://twitter.com/Jellycuts)
+Assorted stuff about iOS shortcuts. Initially forked from and inspired by [@ActuallyZach/Shortcuts](https://github.com/ActuallyZach/Shortcuts).
