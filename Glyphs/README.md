@@ -7,7 +7,3 @@
 - There's a typo in the English name of glyph #61576 ("Outine" instead of "Outline")
 
 TODO: Update PNGs
-
-## Also included
-
-- Shortcut colors and gradients, both by names and integer values
